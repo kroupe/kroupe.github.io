@@ -1,0 +1,28 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Ford",
+      "model": "Fiesta",
+      "year": "2008"
+    },
+    {
+      "id": 2,
+      "name": "Fiat",
+      "model": "500",
+      "year": "2013"
+    }
+  ],
+  "details": [
+    {
+      "id": 1,
+      "immatriculation": "AZ123ER",
+      "km": "150000"
+    },
+    {
+      "id": 2,
+      "immatriculation": "AZ123ER",
+      "km": "82000"
+    }
+  ]
+}
